@@ -31,5 +31,5 @@ Ability to understand business requirements and translate them into technical re
 Familiarity with common tools such as Git,GitHub, Bitbucket, JIRA, Confluence.
 Familiarity with SonarQube, Mockito, Clever Tab, Datadog log monitoring, Service Now, Bamboo plan.
 
-Skills: Jest · Webpack · REST APIs · Cascading Style Sheets (CSS) · redux · React.js · JavaScript · HTML · GitHub · Jenkin · Bootstrap · NPM · Vue JS ·Responsive Design
+Skills: Jest · Webpack · REST APIs · Cascading Style Sheets (CSS) · redux · React.js · JavaScript · HTML · GitHub · Jenkin ·Babel · Bootstrap · NPM · Vue JS · Responsive Design
 
