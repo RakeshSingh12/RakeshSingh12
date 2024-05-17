@@ -33,3 +33,12 @@ Familiarity with SonarQube, Mockito, Clever Tab, Datadog log monitoring, Service
 
 Skills: Jest · Webpack · REST APIs · Cascading Style Sheets (CSS) · redux · React.js · JavaScript · HTML · GitHub · Jenkin ·Babel · Bootstrap · NPM · Vue JS · Responsive Design
 
+
+
+
+![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakeshSingh12&show_icons=true&theme=tokyonight)
+
+
+
+![Rakesh's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=RakeshSingh12&)
+
