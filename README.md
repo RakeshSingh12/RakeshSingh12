@@ -14,7 +14,7 @@ Optimizing components for maximum performance
 Optimizing performance of the application.
 Troubleshooting the bugs
 
-> [!NOTE]
+> [!Responsibilities]
 > Useful information that users should know, even when skimming content.
  
 Skills-
