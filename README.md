@@ -15,7 +15,7 @@ Optimizing performance of the application.
 Troubleshooting the bugs
 
  
-Skills-
+#Skills
 Strong proficiency in JavaScript and the JavaScript object model
 In-depth understanding of React.js and its core principles
 Experience with popular React.js workflows (Redux)
