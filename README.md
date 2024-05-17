@@ -1,5 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Rakesh!</h2>
-
+<h2 align="center">Hi there 👋, I'm Rakesh!</h2>  https://www.linkedin.com/in/rakesh-singh-142a8aaa/
 
 Have exposure♛ to building professional websites🖥 and front-end applications and Mobile Application 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd Technologies✍️ as Skilled in JavaScript, React JS, TypeScript, Vue JS, Redux, ECMAScript, Bootstrap, Flexbox, Angular JS,Bootstrap, Wordpress,SQL, Core Java, Kotlin, React Native, Retrofit, REST API, Socket IO, MVP, AsyncStorage, Arrow Function, ESLint, Git, GitLab, JIRA, Confluence, SonarQube, Mockito, Clever Tab, Datadog, Service Now, Multimedia Device, Bamboo Plan. for web and  Mobile based applications.
 
