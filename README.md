@@ -5,7 +5,7 @@ Have exposure♛ to building professional websites🖥 and front-end application
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created 15+ mini & major projects💼 on Reactjs and other technologies.
 
  > [!Responsibilities]
-> Developing responsive web page design with Media Queries, CSS Grid Layout, Flexbox and Bootstrap.
+Developing responsive web page design with Media Queries, CSS Grid Layout, Flexbox and Bootstrap.
 Developing responsive Mobile application Using Kotlin,XML,Java.
 Developing new user-facing features using React.js
 Building reusable components and front-end libraries for future use
@@ -13,6 +13,9 @@ Translating designs into high quality code
 Optimizing components for maximum performance
 Optimizing performance of the application.
 Troubleshooting the bugs
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
  
 Skills-
 Strong proficiency in JavaScript and the JavaScript object model
