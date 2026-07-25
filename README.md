@@ -1,80 +1,227 @@
-<h2 align="center">Hi there 👋, I'm Rakesh!</h2>
+# Hi there 👋, I'm Rakesh Singh
 
-Have exposure♛ to building professional websites🖥 and **front-end applications** and **Mobile Application** 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd Technologies✍️ as Skilled in **JavaScript**, **React JS**, **TypeScript**, **Vue JS**,**Node.js**, **Next.js** **Redux**, **ECMAScript**, **Bootstrap**, Flexbox, **Angular JS** , Wordpress, **SQL** , **Core Java**, **Kotlin**, **React Native**, Retrofit, **REST API** , **Socket IO** , **MVP** , **AsyncStorage** , Arrow Function, **ESLint** , **Git** , **GitLab** **git action**, Husky , **JIRA** , **Confluence** , **SonarQube** , **Mockito** , **Clever Tab**, **Datadog**, **Service Now**, Multimedia Device, **Bamboo Plan**. for web and  **Mobile based applications** , Google Analytic.
-
-Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created 15+ mini & major projects💼 on Reactjs and other technologies.
-
-**Responsibilities-**
-Developing responsive web page design with Media Queries, CSS Grid Layout, Flexbox and Bootstrap.
-Developing responsive Mobile application Using Kotlin,XML,Java.
-Developing new user-facing features using React.js
-Building reusable components and front-end libraries for future use
-Translating designs into high quality code
-Optimizing components for maximum performance
-Optimizing performance of the application.
-Troubleshooting the bugs
-
- 
-**Skills**
-Strong proficiency in JavaScript and the JavaScript object model
-In-depth understanding of React.js and its core principles
-Experience with popular React.js workflows (Redux)
-Experience with React Hooks and building custom react-hooks
-Familiarity with newer specifications of ECMAScript
-Knowledge of server-side rendering 
-Familiarity with RESTful APIs
-Familiarity with Kotlin, java
-Knowledge of Typescript
-Knowledge of Redux middleware such as Redux Saga & Redux Thunk
-Good Understanding with common front-end development tools such as Babel, Webpack, NPM, yarn etc.
-Ability to understand business requirements and translate them into technical requirements
-Familiarity with common tools such as Git,GitHub, Bitbucket, JIRA, Confluence.
-Familiarity with SonarQube, Mockito, Clever Tab, Datadog log monitoring, Service Now, Bamboo plan.
-
-
-**Skills:** • Jest · Webpack · REST APIs · Cascading Style Sheets (CSS) · redux · React.js • Node.js • Next.js · JavaScript · HTML · GitHub • GitHub Action · Jenkin · Babel · Bootstrap · NPM · Vue JS · Responsive Design***
-
-
-
-
-<!-- ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakeshSingh12&show_icons=true&theme=tokyonight)
-
-
-
-![Rakesh's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=RakeshSingh12&)
--->
-
-
-
-<hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RakeshSingh12&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="RakeshSingh12" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=RakeshSingh12&show_icons=true&locale=en&theme=chartreuse-dark" alt="RakeshSingh12" width="410" /></p>
-<br><br><br><br><br>
-<hr>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RakeshSingh12&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<h3 align="center">🚀 Frontend & Full-Stack Software Engineer</h3>
 
 <p align="center">
-<div align=center>
-  <a href="https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=RakeshSingh12&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+  <em>Building scalable, high-performance web & mobile applications with modern JavaScript technologies.</em>
 </p>
 
+---
 
+## 👨‍💻 About Me
 
+I'm a passionate **Software Engineer** building scalable, high-performance web and mobile applications.
 
+I specialize in developing modern, responsive, and user-friendly applications using **React.js**, **TypeScript**, **JavaScript**, **Next.js**, **Vue.js**, and **Node.js**.
 
+I have experience delivering enterprise solutions in the information technology and services industry, with a strong focus on performance optimization, reusable component architecture, clean code, and exceptional user experience.
 
+- 💼 Professional Software Engineer
+- 🌱 Passionate about Learning New Technologies
+- ⚛️ Frontend & Full-Stack Development
+- 🚀 Enterprise Web Application Development
+- 📱 Mobile Application Development
+- 🤝 Open Source Enthusiast
 
-<hr>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://myoctocat.com/assets/images/base-octocat.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://myoctocat.com/assets/images/base-octocat.svg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://myoctocat.com/assets/images/base-octocat.svg">
-</picture>
+---
 
+# 💻 Tech Stack
+
+## 🎨 Frontend
+
+- React.js
+- Next.js
+- Vue.js
+- JavaScript (ES6+)
+- TypeScript
+- Java
+- Java Spring boot
+- HTML5
+- CSS3
+- SCSS
+- Bootstrap
+- Flexbox
+- CSS Grid
+- Redux
+- Redux Toolkit
+- Redux Saga
+- Redux Thunk
+- React Hooks
+- Responsive Design
+
+---
+
+## ⚙️ Backend
+
+- Node.js
+- Express.js
+- REST APIs
+- Socket.IO
+
+---
+
+## 📱 Mobile Development
+
+- React Native
+- Kotlin
+- Java
+- XML
+- Retrofit
+- AsyncStorage
+- Socket.io
+- MVP Architecture
+- MVVM Architecture
+
+---
+
+## 🗄️ Databases
+
+- SQL
+- MongoDB
+
+---
+
+## 🛠️ Build & Development Tools
+
+- Webpack
+- Babel
+- NPM
+- Yarn
+- ESLint
+- Husky
+- Git
+- GitHub
+- GitHub Actions
+- Jenkins
+- Bamboo
+- Docker
+- Kubernetes
+
+---
+
+## 📊 DevOps & Monitoring
+
+- SonarQube
+- Datadog
+- ServiceNow
+- Jira
+- Confluence
+- Google Analytics
+
+---
+
+# 🔥 What I Do
+
+- ✅ Develop responsive, mobile-first web applications
+- ✅ Build reusable and maintainable React components
+- ✅ Design clean and intuitive user interfaces
+- ✅ Integrate REST APIs and third-party services
+- ✅ Optimize application performance and loading speed
+- ✅ Translate UI/UX designs into production-ready code
+- ✅ Debug, troubleshoot, and improve application quality
+- ✅ Collaborate effectively within Agile/Scrum teams
+
+---
+
+# 🧠 Technical Expertise
+
+- JavaScript & TypeScript
+- Java
+- React.js & React Hooks
+- Next.js
+- Vue.js
+- Redux Ecosystem
+- Server-Side Rendering (SSR)
+- RESTful APIs
+- Responsive Web Design
+- Performance Optimization
+- State Management
+- Component-Based Architecture
+- Git Version Control
+- CI/CD Pipelines
+- Frontend Best Practices
+
+---
+
+# 🚀 Professional Highlights
+
+- 💼 Experienced in developing enterprise-grade software solutions
+- 🌐 Developed enterprise-grade web applications
+- ⚛️ Built scalable React.js applications from scratch
+- 📱 Experience in Android and React Native development
+- 🔄 Integrated REST APIs with frontend applications
+- 📦 Created reusable component libraries
+- ⚡ Improved application performance and user experience
+- 👨‍💻 Built **15+ mini and major projects**
+- 🤝 Worked in Agile/Scrum development teams
+- 🔍 Experience with production support and monitoring
+
+---
+
+# 🌱 Currently Learning
+
+I'm continuously improving my skills in:
+
+- ☁️ AWS Cloud
+- 🏗️ System Design
+- 🔗 Microservices
+- 🤖 AI-Assisted Development
+- ⚡ Performance Optimization
+
+---
+
+# 📈 Projects
+
+- 🚀 Built **15+ mini and major projects** using React.js and modern web technologies.
+- 🏢 Developed enterprise-grade frontend applications for large-scale business solutions.
+- 📱 Created responsive web and mobile applications with a strong focus on performance, scalability, and user experience.
+- ⚛️ Designed reusable React components and frontend libraries.
+- 🔌 Integrated REST APIs and third-party services.
+- 📊 Developed modern dashboards and admin panels.
+
+---
+
+# 💡 Core Competencies
+
+- Frontend Development
+- Full-Stack Development
+- Responsive Web Design
+- Component-Based Architecture
+- State Management
+- REST API Integration
+- Performance Optimization
+- Clean Code Principles
+- UI/UX Implementation
+- Agile Methodologies
+- Git Version Control
+- CI/CD Pipelines
+
+---
+
+# 🎯 Career Objective
+
+To build scalable, high-quality software solutions while continuously learning modern technologies, contributing to impactful products, and collaborating with talented teams to solve real-world challenges.
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on exciting projects, contributing to open source, and discussing new technologies.
+
+Feel free to connect, collaborate, or discuss technology!
+
+---
+
+### 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/rakesh-singh-142a8aaa
+- 💻 GitHub: https://github.com/RakeshSingh12
+- 📧 Email: rakeshaug2022@gmail.com
+
+---
+
+## ⭐ Thanks for Visiting!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+Happy Coding! 🚀
