@@ -220,8 +220,30 @@ Feel free to connect, collaborate, or discuss technology!
 
 ---
 
+
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RakeshSingh12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RakeshSingh12&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+
 ## ⭐ Thanks for Visiting!
 
 If you like my work, consider giving a ⭐ to my repositories.
 
 Happy Coding! 🚀
+
+
