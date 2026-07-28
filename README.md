@@ -1,6 +1,9 @@
 # Hi there 👋, I'm Rakesh Singh
 
-<h3 align="center">🚀 Frontend & Full-Stack Software Engineer</h3>
+<p align="center">
+  <a href="https://github.com/RakeshSingh12/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Software%20Engineer;React.js%20%7C%20Next.js%20%7C%20TypeScript;Java%20%7C%20Node.js%20%7C%20Express.js;CI%2FCD%20Pipelines%20%7C%20Docker%20%7C%20AWS;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <p align="center">
   <em>Building scalable, high-performance web & mobile applications with modern JavaScript technologies.</em>
@@ -227,6 +230,9 @@ Feel free to connect, collaborate, or discuss technology!
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RakeshSingh12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+
+
 
 
 ---
