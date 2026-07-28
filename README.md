@@ -228,10 +228,8 @@ Feel free to connect, collaborate, or discuss technology!
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RakeshSingh12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=RakeshSingh12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-
 
 
 
